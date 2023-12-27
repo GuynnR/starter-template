@@ -27,7 +27,7 @@ This project provides a clean and organized starter template for a website. It i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/guynnr/your-website.git
+    git clone https://github.com/guynnr/starter-template.git
     ```
 
 2. Open `index.html` in your preferred web browser.
